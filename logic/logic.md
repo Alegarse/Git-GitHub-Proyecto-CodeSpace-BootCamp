@@ -11,4 +11,5 @@
 Cuando se pulse en cada enlace del curso en la pagina "courses", se abrirá el enlace del video de dicho curso en esta pagina "logic", y se
 visualizará en el rectángulo habilitado para ello, activandose botones de play, pausa y stop.
 Código oculto para solo visualización restánculo video.
+Fixeado el problema del inficador de volumen, que no realizaba correctamenet su función, silenciando el sonido en vez de modularlo.
 </span>
